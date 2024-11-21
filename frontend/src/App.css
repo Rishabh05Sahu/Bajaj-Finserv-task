@@ -1,0 +1,28 @@
+.app {
+  text-align: center;
+  margin: 3rem;
+}
+
+textarea {
+  margin-top: 1rem;
+  padding: 2rem;
+  width: 80%;
+  height: 20vh;
+  border-radius: 0.5rem;
+}
+
+label {
+  display: block;
+  margin: 0.5rem 0;
+}
+
+.process-btn {
+  margin: 1rem 0;
+  height: 7vh;
+  width: 11vw;
+  font-size: 1.5rem;
+  font-weight: 700;
+  border: none;
+  background-color: rgb(75, 149, 219);
+  border-radius: 0.25rem;
+}
