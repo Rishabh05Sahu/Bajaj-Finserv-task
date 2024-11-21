@@ -8,7 +8,7 @@ import './App.css';
 
 const MyApp = () => {
  
-  const backendUrl = procces.env.REACT_APP_BACKEND_URL
+  const backendUrl = process.env.REACT_APP_BACKEND_URL
 
   const [inputJSON, setInputJSON] = useState('');
   const [APIResponse, setAPIResponse] = useState(null);
